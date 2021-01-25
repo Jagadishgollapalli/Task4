@@ -1,13 +1,3 @@
-//http code
-<!DOCTYPE html>
-<html>
-    <head><meta http-equiv="content-type"content="text/html";charset="utf-8"></head>
-    <body>
-        <script src="abc.js"></script>
-    </body>
-    </html>
-    _____________________________________________________________________________________________________________
-    
 //script code:
 
 1.Get all the countries from asia continent/region using filter function.
